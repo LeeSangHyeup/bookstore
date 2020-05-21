@@ -18,11 +18,9 @@ C#언어와 asp, bootstrap, postgresql로 구현된 도서구매 사이트입니
 ![로그인](https://user-images.githubusercontent.com/65228113/82612512-f9e83f80-9bfd-11ea-9d21-b4a40a7a4cb6.png)
 ![아이디찾기](https://user-images.githubusercontent.com/65228113/82611872-81cd4a00-9bfc-11ea-9ec4-9814e87c9ab9.png)  
 ![비밀번호찾기](https://user-images.githubusercontent.com/65228113/82611870-809c1d00-9bfc-11ea-8ce6-f34babd4370b.png)  
-![계정관리](https://user-images.githubusercontent.com/65228113/82611884-84c83a80-9bfc-11ea-8cb5-3e8c7d911401.png)  
-![계정변경](https://user-images.githubusercontent.com/65228113/82612505-f81e7c00-9bfd-11ea-8bce-891e4a2a7ee1.png)
 ![본인확인](https://user-images.githubusercontent.com/65228113/82612504-f81e7c00-9bfd-11ea-8d52-6566ba5493de.png)
-![계정관리2](https://user-images.githubusercontent.com/65228113/82611886-8560d100-9bfc-11ea-9d46-e8dafb994f68.png)  
-![계정관리3](https://user-images.githubusercontent.com/65228113/82611887-8560d100-9bfc-11ea-8718-f07667b88d5b.png)  
+![계정변경](https://user-images.githubusercontent.com/65228113/82612505-f81e7c00-9bfd-11ea-8bce-891e4a2a7ee1.png)
+![계정관리](https://user-images.githubusercontent.com/65228113/82611887-8560d100-9bfc-11ea-8718-f07667b88d5b.png)  
 
 <도서관리>
 ![검색](https://user-images.githubusercontent.com/65228113/82612511-f9e83f80-9bfd-11ea-8824-e6eeb81f0cbb.png)
