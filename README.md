@@ -1,5 +1,5 @@
 # bookstore
-C#언어와 asp, bootstrap, postgresql로 구현된 도서구매 사이트입니다.
+C#언어와 asp, bootstrap, postgresql로 구현된 도서구매 사이트입니다.  
 (도서 이미지 및 정보는 python 네이버도서를 크롤링하여 수집하였습니다.)
 
 
