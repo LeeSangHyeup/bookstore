@@ -20,11 +20,9 @@ C#언어와 asp, bootstrap, postgresql로 구현된 도서구매 사이트입니
 ![비밀번호찾기](https://user-images.githubusercontent.com/65228113/82611870-809c1d00-9bfc-11ea-8ce6-f34babd4370b.png)  
 ![본인확인](https://user-images.githubusercontent.com/65228113/82612504-f81e7c00-9bfd-11ea-8d52-6566ba5493de.png)
 ![계정변경](https://user-images.githubusercontent.com/65228113/82612505-f81e7c00-9bfd-11ea-8bce-891e4a2a7ee1.png)
-![계정관리](https://user-images.githubusercontent.com/65228113/82611887-8560d100-9bfc-11ea-8718-f07667b88d5b.png)  
 
 <도서관리>
 ![검색](https://user-images.githubusercontent.com/65228113/82612511-f9e83f80-9bfd-11ea-8824-e6eeb81f0cbb.png)
-![책정보](https://user-images.githubusercontent.com/65228113/82611878-83970d80-9bfc-11ea-964d-73e423fd6053.png)  
 ![오늘의 책](https://user-images.githubusercontent.com/65228113/82612510-f94fa900-9bfd-11ea-9f0a-60777dfbf04d.png)
 ![분야별도서](https://user-images.githubusercontent.com/65228113/82612508-f8b71280-9bfd-11ea-8895-9f0afeebb4b1.png)
 
