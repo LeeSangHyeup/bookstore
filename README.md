@@ -11,7 +11,7 @@ C#언어와 asp, bootstrap, postgresql로 구현된 도서구매 사이트입니
 
 ![사이트구조](https://user-images.githubusercontent.com/65228113/82611871-81cd4a00-9bfc-11ea-88b6-3ab520e7398b.PNG)  
 
-<메인>
+<메인>  
 ![메인](https://user-images.githubusercontent.com/65228113/82612513-fa80d600-9bfd-11ea-9068-b8e0041ee5af.png)
 
 <계정관리>  
